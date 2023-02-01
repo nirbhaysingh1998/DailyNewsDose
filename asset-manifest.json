@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/DailyNewsDose/blob/master/public/index.html/static/css/main.d145b71d.css",
-    "main.js": "/DailyNewsDose/blob/master/public/index.html/static/js/main.e2d4d97a.js",
-    "static/js/787.c7102ae2.chunk.js": "/DailyNewsDose/blob/master/public/index.html/static/js/787.c7102ae2.chunk.js",
-    "static/media/spinner.gif": "/DailyNewsDose/blob/master/public/index.html/static/media/spinner.602e520c6c6edc2ffab4.gif",
-    "index.html": "/DailyNewsDose/blob/master/public/index.html/index.html",
-    "main.d145b71d.css.map": "/DailyNewsDose/blob/master/public/index.html/static/css/main.d145b71d.css.map",
-    "main.e2d4d97a.js.map": "/DailyNewsDose/blob/master/public/index.html/static/js/main.e2d4d97a.js.map",
-    "787.c7102ae2.chunk.js.map": "/DailyNewsDose/blob/master/public/index.html/static/js/787.c7102ae2.chunk.js.map"
+    "main.css": "/DailyNewsDose/static/css/main.d145b71d.css",
+    "main.js": "/DailyNewsDose/static/js/main.8246ad34.js",
+    "static/js/787.c7102ae2.chunk.js": "/DailyNewsDose/static/js/787.c7102ae2.chunk.js",
+    "static/media/spinner.gif": "/DailyNewsDose/static/media/spinner.602e520c6c6edc2ffab4.gif",
+    "index.html": "/DailyNewsDose/index.html",
+    "main.d145b71d.css.map": "/DailyNewsDose/static/css/main.d145b71d.css.map",
+    "main.8246ad34.js.map": "/DailyNewsDose/static/js/main.8246ad34.js.map",
+    "787.c7102ae2.chunk.js.map": "/DailyNewsDose/static/js/787.c7102ae2.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d145b71d.css",
-    "static/js/main.e2d4d97a.js"
+    "static/js/main.8246ad34.js"
   ]
 }
